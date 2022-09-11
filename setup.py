@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='cacpy_tools',
-    version='0.0.1',
+    version='0.0.2',
     author='Roni Hernandez',
     author_email='roni.hernandez.1999@gmail.com',
     description='Testing installation of Package',
